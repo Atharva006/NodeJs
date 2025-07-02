@@ -4,7 +4,6 @@ const path = require('path');
 //External Module
 const express = require('express');
 
-
 //Local Module
 const userRouter = require('./routes/userRouter');
 const hostRouter = require('./routes/hostRouter');
